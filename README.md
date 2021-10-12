@@ -33,7 +33,7 @@ https://developer.github.com/v3/repos/deployments/.
 ```
 kubectl create ns example-helm
 ```
-test-commit
+
 ### Structure
 
 ```bash
